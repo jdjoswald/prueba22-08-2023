@@ -1,0 +1,140 @@
+{
+ "people": [{
+ "person_id": "1",
+ "name": "Laurie",
+ "surname1": "Moreau",
+ "age": 10,
+ "height": 130,
+ "weight": 32,
+ "city_id": "5",
+ "study_id": "1",
+ "gender_id": "2",
+ "bloodtype_id": "1"
+ }, {
+ "person_id": "2",
+ "name": "María",
+ "surname1": "Martínez",
+ "age": 40,
+ "height": 165,
+ "Weight": 55,
+ "city_id": "2",
+ "study_id": null,
+ "gender_id": "2",
+ "bloodtype_id": "4"
+ }, {
+
+ "person_id": "3",
+ "name": "Akita",
+ "surname1": "Yamaguchi",
+ "age": 85,
+ "height": 160,
+ "weight": 63,
+ "city_id": "3",
+ "study_id": "1",
+ "gender_id": "1",
+ "bloodtype_id": "2"
+ }, {
+ "person_id": "4",
+ "name": "Javiera",
+ "surname1": "García",
+ "age": 25,
+ "height": 150,
+ "weight": 70,
+ "city_id": "1",
+ "study_id": "2",
+ "gender_id": "2",
+ "bloodtype_id": "3"
+ }, {
+ "person_id": "5",
+ "name": "Fausta",
+ "surname1": "Sanz",
+ "age": 55,
+ "height": 155,
+ "weight": 65,
+ "city_id": "4",
+ "study_id": null,
+ "gender_id": "2",
+ "bloodtype_id": "1"
+ } ],
+ "cities": [{
+ "city_id": "1",
+ "cityName": "Pamplona",
+ "country_id": "1"
+ },
+ {
+ "city_id": "2",
+ "cityName": "Santa Cruz de Tenerife",
+ "country_id": "1"
+ },
+
+ {
+ "city_id": "3",
+ "cityName": "Tokyo",
+ "country_id": "4"
+ },
+ {
+ "city_id": "4",
+ "cityName": "Bogotá",
+ "country_id": "3"
+ },
+ {
+ "city_id": "5",
+ "cityName": "Burdeos",
+ "country_id": "2"
+ }
+ ],
+ "countries": [{
+ "country_id": "1",
+ "countryName": "España"
+ },
+ {
+ "country_id": "2",
+ "countryName": "Francia"
+ },
+ {
+ "country_id": "3",
+ "countryName": "Colombia"
+ },
+ {
+ "country_id": "4",
+ "countryName": "Japón"
+ }
+ ],
+ "studies": [{
+ "study_id": "1",
+ "level": "Universidad"
+ },
+ {
+ "study_id": "2",
+ "level": "Instituto"
+ }
+ ],
+ "gender": [{
+
+
+ "gender_id": "1",
+ "type": "Hombre"
+ },
+ {
+ "gender_id": "2",
+ "type": "Mujer"
+ }
+ ],
+ "bloodType": [{
+ "bloodType_id": "1",
+ "bloodName": "A"
+ },
+ {
+ "bloodType_id": "2",
+ "bloodName": "B"
+ },
+ {
+ "bloodType_id": "3",
+ "bloodName": "AB"
+ },
+ {
+ "bloodType_id": "4",
+ "bloodName": "0"
+ }
+ ]
+}
